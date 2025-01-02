@@ -4,6 +4,17 @@ Welcome to my GitHub profile! I’m an **aspiring Data Analyst** with a passion 
 
 ---
 
+## 📂 **Data Analytics Portfolio**
+Check out my [Data Analytics Portfolio] () for a collection of my data analytics projects. Hightlight include:
+- [🚦 Road Accident Analysis](https://github.com/yourusername/road-accidents-analysis)  
+  *Analyzed traffic accident data to identify high-risk areas and factors contributing to casualties.*  
+- [💼 A-Life Idaman Segmentation Dashboard](https://github.com/yourusername/a-life-idaman-dashboard)  
+  *Created an interactive Tableau dashboard to segment potential customers for an insurance plan.*  
+- [📊 Cost-Per-Lead Optimization](https://github.com/yourusername/facebook-ads-analytics)  
+  *Optimized Facebook Ads campaigns by analyzing leads and cost per lead.*
+
+---
+
 ## 👀 What I’m Interested In  
 - Data analysis & visualization
 - Machine learning & predictive modeling  
@@ -26,24 +37,13 @@ Welcome to my GitHub profile! I’m an **aspiring Data Analyst** with a passion 
 ---
 
 ## 📫 How to Reach Me  
-- **Email:** [amninatasyar@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/amninatasya/] 
+- **Email:** [amninatasyar@gmail.com](mailto:amninatasyar@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/amninatasya/](https://www.linkedin.com/in/amninatasya/)
 
 ---
 
 ## 😄 Pronouns  
 **She/Her**  
-
----
-
-## 📈 **Projects**
-Here are some of my recent projects:  
-- [🚦 Road Accident Analysis](https://github.com/yourusername/road-accidents-analysis)  
-  *Analyzed traffic accident data to identify high-risk areas and factors contributing to casualties.*  
-- [💼 A-Life Idaman Segmentation Dashboard](https://github.com/yourusername/a-life-idaman-dashboard)  
-  *Created an interactive Tableau dashboard to segment potential customers for an insurance plan.*  
-- [📊 Cost-Per-Lead Optimization](https://github.com/yourusername/facebook-ads-analytics)  
-  *Optimized Facebook Ads campaigns by analyzing leads and cost per lead.*  
 
 ---
 
