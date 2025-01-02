@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m an **aspiring Data Analyst** with a passion 
 ---
 
 ## 📂 **Data Analytics Portfolio**
-Check out my [Data Analytics Portfolio] () for a collection of my data analytics projects. Hightlight include:
+Check out my [Data Analytics Portfolio]() for a collection of my data analytics projects. Hightlight include:
 - [🚦 Road Accident Analysis](https://github.com/yourusername/road-accidents-analysis)  
   *Analyzed traffic accident data to identify high-risk areas and factors contributing to casualties.*  
 - [💼 A-Life Idaman Segmentation Dashboard](https://github.com/yourusername/a-life-idaman-dashboard)  
@@ -38,7 +38,7 @@ Check out my [Data Analytics Portfolio] () for a collection of my data analytics
 
 ## 📫 How to Reach Me  
 - **Email:** [amninatasyar@gmail.com](mailto:amninatasyar@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/amninatasya/](https://www.linkedin.com/in/amninatasya/)
+- **LinkedIn:** [linkedin.com/in/amninatasya](https://www.linkedin.com/in/amninatasya/)
 
 ---
 
